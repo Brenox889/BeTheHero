@@ -38,5 +38,5 @@
 
 ---
 
-Made by [Breno Mendes](https://github.com/Brenox889/) :bat:
+Made by [Breno Mendes](https://github.com/Brenox889/) :zap:
  
