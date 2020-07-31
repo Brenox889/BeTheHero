@@ -30,12 +30,10 @@
      # On FrontEnd paste   
          npm start or yarn start
      
-## Technologies
+## :space_invader: Technologies
 - [JavaScript](https://www.javascript.com/)
 - [Node](https://nodejs.org/en/)
 - [ReactJS](https://pt-br.reactjs.org/)
-- [ReactNative](https://reactnative.dev/)
-
 
 
 ---
