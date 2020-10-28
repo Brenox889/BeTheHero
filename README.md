@@ -38,5 +38,5 @@
 
 ---
 
-Made by [Breno Mendes](https://www.linkedin.com/in/breno-mendes-14206318a/) :zap:
+Made by [Breno Mendes](https://www.linkedin.com/in/breno-mendes) :zap:
  
